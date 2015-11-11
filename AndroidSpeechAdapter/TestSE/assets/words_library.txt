@@ -1,0 +1,8 @@
++allarme;sicurezza;l'allarme
+on;acceso;accesa;accendi;accendere;attivo;attiva;attivare/off;spento;spenta;spegni;spegnere;disattivo;disattiva;disattivare
++luce;illuminazione;lampada;lampadario
+on;acceso;accesa;accendi;accendere;attivo;attiva;attivare/off;spento;spenta;spegni;spegnere;disattivo;disattiva;disattivare
+cucina;pranzo/sala;soggiorno;salotto/ingresso;entrata;corridoio;scale/ospiti;cameretta;bambini/camera;padronale;stanza/bagno;cesso;servizzi
++temperatura;riscaldamento;condizionatore;climatizzatore;termostato;termometro
+imposta;imposto;impostare;setta;setto;settare/aumenta;aumento;aumentare;incrementa;incremento;incrementare;alza;alzo;alzare/diminuisce;diminuisco;diminuire;decrementa;decremento;decrementare;abbassa;abbasso;abbassare
+&f
